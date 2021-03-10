@@ -1,14 +1,19 @@
 # Welcome to My GitHub Pages
 
 ## IOT
-[Greenhouse monitoring project](https://github.com/heikkimat/sensoriverkkoprojekti)
-Arduino + sensors + web pages
+[Greenhouse monitoring project](https://github.com/heikkimat/sensoriverkkoprojekti), Arduino + sensors + web pages
+[REST API With Flask & SQL Alchemy](https://github.com/heikkimat/iot_app)
 
 ## Web
 [flask_sqlalchemy_rest -API](https://github.com/heikkimat/flask_sqlalchemy_rest)
 [Blog with Flask and SQL Alchemy](https://github.com/heikkimat/flaskblog_proj)
 [REST API With Flask & SQL Alchemy](https://github.com/heikkimat/heroku_api)
+[Flask, Postgres, Heroku](https://github.com/heikkimat/projects/wiki/Flask%2C-Postgres%2C-Heroku), [Heroku page](https://lexuspalaute.herokuapp.com/)
 ## Games
+[Tic tac toe](https://github.com/heikkimat/ristinolla), JavaScript, HTML, CSS
+[Breakout_game](https://github.com/heikkimat/2D_breakout_game), Javascript
+[Breakout_game_Phaser](https://github.com/heikkimat/2D_breakout_phaser), JavaScript, Phaser framework
+[Tetris](https://github.com/heikkimat/tetris), JavaScript
 
 ## Gists
 [Link](https://gist.github.com/heikkimat)
